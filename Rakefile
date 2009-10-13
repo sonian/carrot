@@ -7,10 +7,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "carrot"
-    s.summary = %Q{TODO}
+    s.summary = "A synchronous amqp client"
     s.email = "amos@geni.com"
     s.homepage = "http://github.com/famoseagle/carrot"
-    s.description = "TODO"
+    s.description = "A synchronous amqp client"
     s.authors = ["Amos Elliston"]
   end
 rescue LoadError
